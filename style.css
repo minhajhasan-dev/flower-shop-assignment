@@ -218,7 +218,7 @@ html {
 .latest-deals {
     width: 1440px;
     height: 449px;
-    background-image: url("/Rectangle\ 9.png");
+    background-image: url("./Rectangle\ 9.png");
     margin: 0 auto;
     border-radius: 8px;
     display: flex;
