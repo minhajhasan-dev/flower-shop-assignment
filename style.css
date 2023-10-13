@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Lato', sans-serif;
+}
+
+.hero {
+    display: flex;
+    min-height: 80.5rem;
+    width: 190.2rem;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E554731A;
+}
+
+.hero-info h1 {
+    font-size: 8rem;
+    font-weight: 800;
+}
+
+.hero-info p {
+    font-size: 1.8rem;
+    margin: 3.2rem 0;
+}
+
+.default-btn {
+    padding: 2rem 4.3rem;
+    color: white;
+    border-radius: 0.8rem;
+    background: #E55473;
+    border: 0;
+    font-size: 2rem;
+}
+
+.hero-img {
+    margin-top: 5rem;
+}
